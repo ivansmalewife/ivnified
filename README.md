@@ -4,3 +4,4 @@ ${\textsf{\color{#EEEEEE}  ㅤ  ㅤᲘ︵𐑼ㅤyawning  ivan }}$ <img src="http
 </p>
 <details><summary><i> ㅤabout me ! </i> </summary>
 <br>
+test
