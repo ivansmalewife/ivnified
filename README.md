@@ -6,5 +6,4 @@ ${\textsf{\color{#EEEEEE}  ㅤ ㅤㅤㅤ yawningㅤ iivan  .. ㅤ }}$
 <br>
 heㅤ/ㅤthey ㅤ, ㅤtmasc ㅤgfaun ㅤbi 
 </p>
-ㅤㅤ<details><summary><i> ㅤㅤ my pupcake
-<img src="https://files.catbox.moe/gc0asn.png" width="45" style="vertical-align: middle; display: inline-block;" /> </summary>
+wip
